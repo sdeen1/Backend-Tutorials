@@ -1,0 +1,1 @@
+from app import app  # import app var from app module (init.py)
